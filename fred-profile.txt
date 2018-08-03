@@ -1,1 +1,1 @@
-this is fred
+This is Fred. I like the git class. I learnt a lot in two days.
