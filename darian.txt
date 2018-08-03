@@ -2,3 +2,6 @@ DARIAN
 Dogs
 Cats
 Dolphins
+Pigs
+horses
+cows
